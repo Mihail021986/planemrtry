@@ -1,0 +1,6 @@
+D:\mathematic\planemetry\planemetry\obj\Release\planemetry.csproj.AssemblyReference.cache
+D:\mathematic\planemetry\planemetry\obj\Release\planemetry.csproj.CoreCompileInputs.cache
+D:\mathematic\planemetry\planemetry\bin\Release\planemetry.dll
+D:\mathematic\planemetry\planemetry\bin\Release\planemetry.pdb
+D:\mathematic\planemetry\planemetry\obj\Release\planemetry.dll
+D:\mathematic\planemetry\planemetry\obj\Release\planemetry.pdb

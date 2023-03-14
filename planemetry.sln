@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "planemetry", "planemetry\planemetry.csproj", "{F4CEDC7C-0493-4E0A-9E71-809CB060CE08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGeometry", "..\TestGeometry\TestGeometry.csproj", "{18FAD0AC-D05B-4606-831D-90B6A169193D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4CEDC7C-0493-4E0A-9E71-809CB060CE08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4CEDC7C-0493-4E0A-9E71-809CB060CE08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4CEDC7C-0493-4E0A-9E71-809CB060CE08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4CEDC7C-0493-4E0A-9E71-809CB060CE08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18FAD0AC-D05B-4606-831D-90B6A169193D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18FAD0AC-D05B-4606-831D-90B6A169193D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18FAD0AC-D05B-4606-831D-90B6A169193D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18FAD0AC-D05B-4606-831D-90B6A169193D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EF743BA-86A4-43D2-A5AF-1657BF9D44DA}
+	EndGlobalSection
+EndGlobal
