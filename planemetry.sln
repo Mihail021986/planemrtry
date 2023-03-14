@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "planemetry", "planemetry\planemetry.csproj", "{F4CEDC7C-0493-4E0A-9E71-809CB060CE08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGeometry", "..\TestGeometry\TestGeometry.csproj", "{18FAD0AC-D05B-4606-831D-90B6A169193D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGeometry", "TestGeometry\TestGeometry.csproj", "{18FAD0AC-D05B-4606-831D-90B6A169193D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
